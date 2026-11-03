@@ -1,0 +1,52 @@
+Date,Description,Category,Type,Amount (KES)
+2026-09-02,Pharmacy,,expense,3080
+2026-09-02,Supermarket groceries,Food,expense,6656
+2026-09-03,Dividend payout,,income,7389
+2026-09-03,Fuel,Transport,expense,4257
+2026-09-03,Supermarket groceries,Food,expense,6052
+2026-09-04,Electricity bill,Utilities,expense,3414
+2026-09-04,Misc purchase,,expense,4987
+2026-09-04,Monthly rent,,expense,35000
+2026-09-06,Taxi,,expense,611
+2026-09-07,Supermarket groceries,Food,expense,2807
+2026-09-11,Client payment - website project,Sales,income,54886
+2026-09-13,Internet,Utilities,expense,3500
+2026-09-13,Monthly salary,,income,120000
+2026-09-14,Course fee,,expense,7363
+2026-09-14,Fuel,Transport,expense,2242
+2026-09-14,Supermarket groceries,Food,expense,3072
+2026-09-18,Course fee,,expense,6929
+2026-09-19,Course fee,,expense,10054
+2026-09-19,Electricity bill,Utilities,expense,2753
+2026-09-19,Electricity bill,Utilities,expense,4898
+2026-09-19,Misc purchase,,expense,988
+2026-09-19,Taxi,,expense,1569
+2026-09-21,Electricity bill,Utilities,expense,5069
+2026-09-21,Taxi,,expense,784
+2026-09-23,Misc purchase,,expense,1014
+2026-09-27,Taxi,,expense,1796
+2026-09-28,Pharmacy,,expense,1345
+2026-10-02,Course fee,,expense,6271
+2026-10-03,Fuel,Transport,expense,4352
+2026-10-04,Internet,Utilities,expense,3500
+2026-10-05,Pharmacy,,expense,2802
+2026-10-09,Misc purchase,,expense,4383
+2026-10-10,Fuel,Transport,expense,4151
+2026-10-10,Supermarket groceries,Food,expense,4535
+2026-10-11,Electricity bill,Utilities,expense,5487
+2026-10-15,Electricity bill,Utilities,expense,3679
+2026-10-15,Monthly rent,,expense,35000
+2026-10-16,Monthly salary,,income,120000
+2026-10-19,Course fee,,expense,10140
+2026-10-19,Taxi,,expense,1334
+2026-10-20,Client payment - website project,Sales,income,58497
+2026-10-20,Electricity bill,Utilities,expense,2799
+2026-10-20,Taxi,,expense,1417
+2026-10-23,Supermarket groceries,Food,expense,8888
+2026-10-23,Taxi,,expense,1117
+2026-10-25,Course fee,,expense,14143
+2026-10-25,Dividend payout,,income,5573
+2026-10-25,Pharmacy,,expense,2201
+2026-10-26,Supermarket groceries,Food,expense,3972
+2026-10-27,Misc purchase,,expense,1266
+not-a-date,Broken row,,expense,abc
